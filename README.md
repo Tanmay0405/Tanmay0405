@@ -4,7 +4,7 @@ I'm a passionate developer who loves solving problems through clean code and cre
 🚀 Skills & Interests
 💻 Languages: Java, Python
 
-🛠️ Tools & Frameworks: Git, VS Code, React (beginner), Node.js (learning)
+🛠️ Tools & Frameworks: Git, VS Code, React , Node.js 
 
 📚 Interests: Competitive programming, full-stack development, and AI/ML fundamentals
 
